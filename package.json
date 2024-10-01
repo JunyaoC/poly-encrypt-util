@@ -2,7 +2,7 @@
   "name": "polycrypt",
   "type": "module",
   "version": "0.0.1",
-  "author": "JunyaoC",
+  "author": "junyaoc",
   "license": "MIT",
   "description": "A polycrypt library for encryption and decryption using native Web Crypto API",
   "main": "./dist/index.cjs",
@@ -25,11 +25,7 @@
     "dist"
   ],
   "keywords": [
-    "encryption",
-    "decryption",
-    "crypto",
-    "web crypto api",
-    "polycrypt",
+    "boilerplate",
     "typescript",
     "release",
     "swc"
