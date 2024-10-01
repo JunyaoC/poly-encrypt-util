@@ -2,7 +2,7 @@
   "name": "polycrypt",
   "type": "module",
   "version": "0.0.1",
-  "author": "junyaoc",
+  "author": "JunyaoC",
   "license": "MIT",
   "description": "A polycrypt library for encryption and decryption using native Web Crypto API",
   "main": "./dist/index.cjs",
@@ -15,17 +15,21 @@
   "types": "./dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/maxgfr/typescript-swc-starter.git"
+    "url": "https://github.com/JunyaoC/poly-encrypt-util.git"
   },
   "bugs": {
-    "url": "https://github.com/maxgfr/typescript-swc-starter/issues"
+    "url": "https://github.com/JunyaoC/poly-encrypt-util/issues"
   },
-  "homepage": "https://github.com/maxgfr/typescript-swc-starter#readme",
+  "homepage": "https://github.com/JunyaoC/poly-encrypt-util#readme",
   "files": [
     "dist"
   ],
   "keywords": [
-    "boilerplate",
+    "encryption",
+    "decryption",
+    "crypto",
+    "web crypto api",
+    "polycrypt",
     "typescript",
     "release",
     "swc"
